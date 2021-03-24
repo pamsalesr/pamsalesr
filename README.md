@@ -2,7 +2,7 @@
 I'm **Pamela Anderson Sales**, a brazilian-based (São Paulo) **Full-Stack Web Development** student :raising_hand: . Feel free to contact me on my [Linkedin](https://www.linkedin.com/in/pamela-anderson-sales/)!
 
 ### **Here's what I already know:**
-- Clean Code;
+- I like to use Linter and Code Climate to guarantee a Clean Code;
 - Agile Methodologies (Kanban and Scrum);
 - HTML & CSS;
 - JavaScript (ES6);
