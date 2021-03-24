@@ -1,6 +1,6 @@
 ### Hi there 👋
 You can find me on my [Linkedin](https://www.linkedin.com/in/pamela-anderson-sales/)!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamsalesr)](https://github.com/pamsalesr/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamsalesr&count_private=true&show_icons=true)](https://github.com/pamsalesr/github-readme-stats)
 
 <!--
 **pamsalesr/pamsalesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
