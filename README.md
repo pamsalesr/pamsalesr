@@ -1,5 +1,16 @@
-### Hi there 👋
-You can find me on my [Linkedin](https://www.linkedin.com/in/pamela-anderson-sales/)!
+### Hello there, I'm **Pamela Anderson Sales**, a brazilian-based (São Paulo) **Full-Stack Web Development** student :raising_hand: . Feel free to contact me on my [Linkedin](https://www.linkedin.com/in/pamela-anderson-sales/)!
+
+### **Here's what I already know:**
+- Clean Code;
+- Agile Methodologies (Kanban and Scrum);
+- HTML & CSS;
+- JavaScript (ES6);
+- React;
+- Node.js;
+- Unix & Bash;
+- Git & GitHub.
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamsalesr&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/pamsalesr/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamsalesr&theme=radical)](https://github.com/pamsalesr/github-readme-stats)
 
