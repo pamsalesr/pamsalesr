@@ -13,7 +13,7 @@ Feel free to contact me on my [Linkedin](https://www.linkedin.com/in/pamela-ande
 - I'm constantly working on my Soft-Skills :bowtie:;
 - HTML & CSS;
 - JavaScript (ES6);
-- React (Hooks and Context API, Redux-Thunk);
+- React (Hooks and Context API, and Redux including Thunk middleware for API requisition);
 - Node.js;
 - Unix & Bash;
 - Tests (with NodeJs Assert, RTL, Jest...);
