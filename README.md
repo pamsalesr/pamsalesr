@@ -10,6 +10,7 @@ I'm **Pamela Anderson Sales**, a brazilian-based (São Paulo) **Full-Stack Web D
 - React (Hooks and Context API, Redux-Thunk);
 - Node.js;
 - Unix & Bash;
+- Tests (with NodeJs Assert, RTL, Jest...);
 - Git & GitHub.
 
 
