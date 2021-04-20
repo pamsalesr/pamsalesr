@@ -1,7 +1,8 @@
 ### Hello there, Welcome to my page! :blush:
 I'm **Pamela Anderson Sales**, a brazilian-based (São Paulo) **Full-Stack Web Development** student. :raising_hand: 
 I developed a great passion about codding and technology and I can't wait to start working on important projects.
-![I want it!](https://media.giphy.com/media/Jqz9Nd7u9UrrS4UMj9/giphy.gif | width=60)
+
+<img src="https://media.giphy.com/media/Jqz9Nd7u9UrrS4UMj9/giphy.gif" alt="I want it" width="220px">
 
 
 Feel free to contact me on my [Linkedin](https://www.linkedin.com/in/pamela-anderson-sales/)!
