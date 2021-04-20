@@ -4,12 +4,14 @@ I'm **Pamela Anderson Sales**, a brazilian-based (São Paulo) **Full-Stack Web D
 ### **Here's what I already know:**
 - I like to use Linter and Code Climate to guarantee a Clean Code;
 - Agile Methodologies (Kanban and Scrum);
+- I'm constantly working on my Soft-Skills :bowtie:;
 - HTML & CSS;
 - JavaScript (ES6);
-- React;
+- React (Hooks and Context API, Redux-Thunk);
 - Node.js;
 - Unix & Bash;
 - Git & GitHub.
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamsalesr&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/pamsalesr/github-readme-stats)
