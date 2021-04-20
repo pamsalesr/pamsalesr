@@ -1,5 +1,10 @@
-### Hello there, Welcome to my page :bowtie: !
-I'm **Pamela Anderson Sales**, a brazilian-based (São Paulo) **Full-Stack Web Development** student :raising_hand: . Feel free to contact me on my [Linkedin](https://www.linkedin.com/in/pamela-anderson-sales/)!
+### Hello there, Welcome to my page! :blush:
+I'm **Pamela Anderson Sales**, a brazilian-based (São Paulo) **Full-Stack Web Development** student. :raising_hand: 
+I developed a great passion about codding and technology and I can't wait to start working on important projects.
+(https://gph.is/g/EvpvNRo)
+
+
+Feel free to contact me on my [Linkedin](https://www.linkedin.com/in/pamela-anderson-sales/)!
 
 ### **Here's what I already know:**
 - I like to use Linter and Code Climate to guarantee a Clean Code;
