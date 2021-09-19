@@ -15,6 +15,7 @@ Feel free to contact me on my [Linkedin](https://www.linkedin.com/in/pamela-ande
 - Unix & Bash;
 - Tests (with NodeJs Assert, RTL, Jest...);
 - Git & GitHub.
+- Python
 
 
 
