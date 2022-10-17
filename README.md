@@ -19,8 +19,8 @@ Feel free to contact me on my [Linkedin](https://www.linkedin.com/in/pamela-ande
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamsalesr&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/pamsalesr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamsalesr&theme=radical)](https://github.com/pamsalesr/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamsalesr&count_private=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/pamsalesr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamsalesr&theme=radical&count_private=true)](https://github.com/pamsalesr/github-readme-stats)
 
 <!--
 **pamsalesr/pamsalesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
